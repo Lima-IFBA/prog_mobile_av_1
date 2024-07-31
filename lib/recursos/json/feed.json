@@ -1,0 +1,424 @@
+{
+    "buildsDestiny": [
+        {
+            "_id": 1,
+            "datetime": "2024-07-20T12:00-0500",
+            "class": {
+                "name": "Warlock",
+                "avatar": "solar.png"
+            },
+            "likes": 12,
+            "popularity": "Média",
+            "buildDestiny": {
+                "name": "Infinite Ignitions",
+                "description": "The goal of this build is to spread ignition everywhere. Bossing: 1. Pop song of flame and hellion 2. Shoot Dragon's Breath on a boss 3. Spam your abilities while also shooting Dragon's Breath when it's reloaded",
+                "element": "Solar",
+                "url": "https://mobalytics.gg/destiny-2/builds/warlock/solar/rest-infinite-ignition",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "warlockSolarPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "warlockSolarPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "warlockSolarPose.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 2,
+            "datetime": "2024-07-21T14:00-0500",
+            "class": {
+                "name": "Hunter",
+                "avatar": "stasis.png"
+            },
+            "likes": 5,
+            "popularity": "Baixa",
+            "buildDestiny": {
+                "name": "Stasis Shuriken Master",
+                "description": "Focus on using stasis shurikens to slow and freeze enemies. Use your dodge to refill your melee abilities and create more shurikens.",
+                "element": "Stasis",
+                "url": "https://mobalytics.gg/destiny-2/builds/hunter/stasis/shuriken-master",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "hunterStasisPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "hunterStasisPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "hunterStasisPose.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 3,
+            "datetime": "2024-07-22T16:00-0500",
+            "class": {
+                "name": "Titan",
+                "avatar": "arc.png"
+            },
+            "likes": 8,
+            "popularity": "Baixa",
+            "buildDestiny": {
+                "name": "Arc Striker",
+                "description": "Use your arc abilities to strike enemies with powerful lightning attacks. Your super should be used to clear large groups of enemies or deal heavy damage to bosses.",
+                "element": "Arc",
+                "url": "https://mobalytics.gg/destiny-2/builds/titan/arc/striker",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "titanArcPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "titanArcPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "titanArcPose.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 4,
+            "datetime": "2024-07-23T18:00-0500",
+            "class": {
+                "name": "Warlock",
+                "avatar": "arc.png"
+            },
+            "likes": 15,
+            "popularity": "Média",
+            "buildDestiny": {
+                "name": "Arc Soul",
+                "description": "Summon arc souls to aid you in battle, dealing additional damage to enemies. Use your rift to recharge your arc abilities faster and maintain a constant stream of arc energy.",
+                "element": "Arc",
+                "url": "https://mobalytics.gg/destiny-2/builds/warlock/arc/arc-soul",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "warlockArcPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "warlockArcPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "warlockArcPose.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 5,
+            "datetime": "2024-07-24T20:00-0500",
+            "class": {
+                "name": "Hunter",
+                "avatar": "void.png"
+            },
+            "likes": 3,
+            "popularity": "Baixa",
+            "buildDestiny": {
+                "name": "Void Invisibility",
+                "description": "Utilize your void abilities to become invisible and sneak up on enemies. Use your smoke bomb to create a cloud of invisibility for you and your allies, giving you a strategic advantage in battle.",
+                "element": "Void",
+                "url": "https://mobalytics.gg/destiny-2/builds/hunter/void/invisibility",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "hunterVoidPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "hunterVoidPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "hunterVoidPose.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 6,
+            "datetime": "2024-07-25T10:00-0500",
+            "class": {
+                "name": "Titan",
+                "avatar": "void.png"
+            },
+            "likes": 11,
+            "popularity": "Média",
+            "buildDestiny": {
+                "name": "Void Defender",
+                "description": "This build focuses on using your void abilities to protect yourself and your allies. Use your barricade to create a defensive wall, and your super to provide a shield for your team.",
+                "element": "Void",
+                "url": "https://mobalytics.gg/destiny-2/builds/titan/void/defender",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "titanVoidPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "titanVoidPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "titanVoidPose.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 7,
+            "datetime": "2024-07-26T11:00-0500",
+            "class": {
+                "name": "Warlock",
+                "avatar": "void.png"
+            },
+            "likes": 20,
+            "popularity": "Meta",
+            "buildDestiny": {
+                "name": "Voidwalker",
+                "description": "Harness the power of void to unleash devastating attacks. Use your grenade to weaken enemies, and your super to create a massive explosion that obliterates everything in its path.",
+                "element": "Void",
+                "url": "https://mobalytics.gg/destiny-2/builds/warlock/void/voidwalker",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "warlockVoidPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "warlockVoidPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "warlockVoidPose.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 8,
+            "datetime": "2024-07-27T12:00-0500",
+            "class": {
+                "name": "Hunter",
+                "avatar": "arc.png"
+            },
+            "likes": 7,
+            "popularity": "Baixa",
+            "buildDestiny": {
+                "name": "Arc Strider",
+                "description": "Utilize your arc staff to deal high melee damage to enemies. Your dodge ability will help you evade attacks and chain your melee attacks together for maximum damage.",
+                "element": "Arc",
+                "url": "https://mobalytics.gg/destiny-2/builds/hunter/arc/strider",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "hunterArcPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "hunterArcPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "hunterArcPose.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 9,
+            "datetime": "2024-07-28T14:00-0500",
+            "class": {
+                "name": "Titan",
+                "avatar": "solar.png"
+            },
+            "likes": 9,
+            "popularity": "Baixa",
+            "buildDestiny": {
+                "name": "Solar Sentinel",
+                "description": "Focus on using solar abilities to deal damage and heal yourself. Your super should be used to create a shield that protects you and your allies while dealing damage to enemies.",
+                "element": "Solar",
+                "url": "https://mobalytics.gg/destiny-2/builds/titan/solar/sentinel",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "titanSolarPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "titanSolarPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "titanSolarPose.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 10,
+            "datetime": "2024-07-29T15:00-0500",
+            "class": {
+                "name": "Hunter",
+                "avatar": "stasis.png"
+            },
+            "likes": 13,
+            "popularity": "Média",
+            "buildDestiny": {
+                "name": "Stasis Marksman",
+                "description": "This build maximizes the use of stasis to freeze and shatter enemies. Your primary focus should be on using stasis grenades and super to control the battlefield and deal massive damage.",
+                "element": "Stasis",
+                "url": "https://mobalytics.gg/destiny-2/builds/hunter/stasis/marksman",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "hunterStasisPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "hunterStasisPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "hunterStasisPose.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 11,
+            "datetime": "2024-07-30T16:00-0500",
+            "class": {
+                "name": "Warlock",
+                "avatar": "solar.png"
+            },
+            "likes": 6,
+            "popularity": "Baixa",
+            "buildDestiny": {
+                "name": "Solar Warlock",
+                "description": "Utilize solar abilities to enhance your damage output and support your team. Focus on using your super and abilities to deal high damage and provide buffs to your allies.",
+                "element": "Solar",
+                "url": "https://mobalytics.gg/destiny-2/builds/warlock/solar/warlock",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "warlockSolarPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "warlockSolarPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "warlockSolarPose.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 12,
+            "datetime": "2024-07-31T17:00-0500",
+            "class": {
+                "name": "Titan",
+                "avatar": "arc.png"
+            },
+            "likes": 22,
+            "popularity": "Meta",
+            "buildDestiny": {
+                "name": "Arc Titan",
+                "description": "Leverage arc abilities to electrify your enemies and yourself. Use your super and melee attacks to create a storm of electricity that devastates foes and supports allies.",
+                "element": "Arc",
+                "url": "https://mobalytics.gg/destiny-2/builds/titan/arc/titan",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "titanArcPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "titanArcPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "titanArcPose.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 13,
+            "datetime": "2024-08-01T18:00-0500",
+            "class": {
+                "name": "Hunter",
+                "avatar": "solar.png"
+            },
+            "likes": 17,
+            "popularity": "Média",
+            "buildDestiny": {
+                "name": "Solar Hunter",
+                "description": "Exploit solar abilities to create powerful attacks and provide continuous damage over time. Use your super and grenades to clear enemies and support your team in various encounters.",
+                "element": "Solar",
+                "url": "https://mobalytics.gg/destiny-2/builds/hunter/solar/hunter",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "hunterSolarPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "hunterSolarPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "hunterSolarPose.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 14,
+            "datetime": "2024-08-02T19:00-0500",
+            "class": {
+                "name": "Warlock",
+                "avatar": "arc.png"
+            },
+            "likes": 25,
+            "popularity": "Meta",
+            "buildDestiny": {
+                "name": "Arc Warlock",
+                "description": "Utilize arc abilities to inflict high damage and control the battlefield. Focus on chaining your abilities to create devastating electrical attacks and provide area control.",
+                "element": "Arc",
+                "url": "https://mobalytics.gg/destiny-2/builds/warlock/arc/warlock",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "warlockArcPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "warlockArcPose.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "warlockArcPose.jpeg"
+                    }
+                ]
+            }
+        }
+    ]
+}

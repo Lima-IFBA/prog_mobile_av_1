@@ -1,0 +1,47 @@
+name: aula
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flat_list: ^0.1.14
+  provider: ^6.0.0
+  page_view_dot_indicator: ^2.1.0
+  toast: ^0.3.0
+  flutter_share: ^2.0.0
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - lib/recursos/imagens/hunterArcPose.jpeg
+    - lib/recursos/imagens/hunterStasisPose.jpeg
+    - lib/recursos/imagens/hunterVoidPose.jpeg
+    - lib/recursos/imagens/solar.png
+    - lib/recursos/imagens/stasis.png
+    - lib/recursos/imagens/titanArcPose.jpeg
+    - lib/recursos/imagens/titanSolarPose.jpeg
+    - lib/recursos/imagens/titanVoidPose.jpeg
+    - lib/recursos/imagens/warlockArcPose.jpeg
+    - lib/recursos/imagens/warlockVoidPose.jpeg
+    - lib/recursos/imagens/warlockSolarPose.jpeg
+    - lib/recursos/imagens/void.png
+    - lib/recursos/imagens/arc.png
+    - lib/recursos/json/feed.json
+    - lib/recursos/json/comentarios.json

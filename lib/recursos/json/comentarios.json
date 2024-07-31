@@ -1,0 +1,313 @@
+{
+    "comentarios": [
+      {
+        "_id": 1,
+        "feed": 1,
+        "user": {
+          "userId": 201,
+          "email": "flamewarrior@gmail.com",
+          "name": "FlameWarrior"
+        },
+        "datetime": "2024-07-21T13:00-0500",
+        "content": "A build Infinite Ignitions é uma das melhores que já usei! As explosões são incríveis e os inimigos não têm chance. Excelente trabalho!"
+      },
+      {
+        "_id": 2,
+        "feed": 1,
+        "user": {
+          "userId": 202,
+          "email": "solarmaster@hotmail.com",
+          "name": "SolarMaster"
+        },
+        "datetime": "2024-07-21T14:30-0500",
+        "content": "Adoro a sinergia entre as habilidades nesta build. É muito eficiente para limpar áreas lotadas. Obrigado por compartilhar!"
+      },
+      {
+        "_id": 3,
+        "feed": 2,
+        "user": {
+          "userId": 203,
+          "email": "stasisninja@gmail.com",
+          "name": "StasisNinja"
+        },
+        "datetime": "2024-07-22T15:00-0500",
+        "content": "A build Stasis Shuriken Master é perfeita para controlar o campo de batalha. Congelar grupos grandes de inimigos é extremamente satisfatório."
+      },
+      {
+        "_id": 4,
+        "feed": 2,
+        "user": {
+          "userId": 204,
+          "email": "freezer_king@yahoo.com",
+          "name": "FreezerKing"
+        },
+        "datetime": "2024-07-22T16:30-0500",
+        "content": "Usar os shurikens de stasis para congelar inimigos é uma estratégia muito divertida. Esta build é agora minha favorita!"
+      },
+      {
+        "_id": 5,
+        "feed": 3,
+        "user": {
+          "userId": 205,
+          "email": "lightningstrike@gmail.com",
+          "name": "LightningStrike"
+        },
+        "datetime": "2024-07-23T17:00-0500",
+        "content": "A build Arc Striker realmente maximiza o dano. Usei em várias missões e fiquei impressionado com os resultados. Ótima build!"
+      },
+      {
+        "_id": 6,
+        "feed": 3,
+        "user": {
+          "userId": 206,
+          "email": "thunder_warrior@hotmail.com",
+          "name": "ThunderWarrior"
+        },
+        "datetime": "2024-07-23T18:00-0500",
+        "content": "A sinergia das habilidades de arco é devastadora. Esta build é ideal para limpar grandes grupos de inimigos. Muito bem feita!"
+      },
+      {
+        "_id": 7,
+        "feed": 4,
+        "user": {
+          "userId": 207,
+          "email": "arc_soul_master@gmail.com",
+          "name": "ArcSoulMaster"
+        },
+        "datetime": "2024-07-24T19:00-0500",
+        "content": "A build Arc Soul é fantástica! As almas arcanas ajudam muito em combate, causando danos extras. Recomendo fortemente!"
+      },
+      {
+        "_id": 8,
+        "feed": 4,
+        "user": {
+          "userId": 208,
+          "email": "shockwave@yahoo.com",
+          "name": "Shockwave"
+        },
+        "datetime": "2024-07-24T20:30-0500",
+        "content": "Usar o rift para recarregar as habilidades rapidamente é um toque genial. Esta build me salvou em várias situações difíceis. Parabéns!"
+      },
+      {
+        "_id": 9,
+        "feed": 5,
+        "user": {
+          "userId": 209,
+          "email": "voidshadow@gmail.com",
+          "name": "VoidShadow"
+        },
+        "datetime": "2024-07-25T21:00-0500",
+        "content": "A build Void Invisibility é perfeita para jogadas furtivas. Adoro surpreender os inimigos com esta build. Muito bem planejada!"
+      },
+      {
+        "_id": 10,
+        "feed": 5,
+        "user": {
+          "userId": 210,
+          "email": "stealth_hunter@hotmail.com",
+          "name": "StealthHunter"
+        },
+        "datetime": "2024-07-25T22:30-0500",
+        "content": "A habilidade de se tornar invisível e ajudar os aliados é extremamente útil. Esta build é essencial para estratégias de equipe."
+      },
+      {
+        "_id": 11,
+        "feed": 6,
+        "user": {
+          "userId": 211,
+          "email": "void_guardian@gmail.com",
+          "name": "VoidGuardian"
+        },
+        "datetime": "2024-07-26T10:30-0500",
+        "content": "A build Void Defender é incrível para suporte. Usar o super para criar um escudo salvou minha equipe várias vezes. Ótima escolha!"
+      },
+      {
+        "_id": 12,
+        "feed": 6,
+        "user": {
+          "userId": 212,
+          "email": "defender_titan@yahoo.com",
+          "name": "DefenderTitan"
+        },
+        "datetime": "2024-07-26T11:00-0500",
+        "content": "Adoro a forma como esta build utiliza as habilidades de vazio para proteção. Muito eficiente para jogar em grupo. Excelente trabalho!"
+      },
+      {
+        "_id": 13,
+        "feed": 7,
+        "user": {
+          "userId": 213,
+          "email": "void_master@destiny.com",
+          "name": "VoidMaster"
+        },
+        "datetime": "2024-07-27T12:00-0500",
+        "content": "A build Voidwalker é simplesmente devastadora! A habilidade de criar explosões massivas é impressionante. Já usei em várias missões e o resultado é sempre incrível."
+      },
+      {
+        "_id": 14,
+        "feed": 7,
+        "user": {
+          "userId": 214,
+          "email": "dark_sorcerer@arcane.com",
+          "name": "DarkSorcerer"
+        },
+        "datetime": "2024-07-27T13:30-0500",
+        "content": "Usar as granadas para enfraquecer os inimigos e depois explodir tudo com o super é muito satisfatório. Recomendo fortemente esta build!"
+      },
+      {
+        "_id": 15,
+        "feed": 8,
+        "user": {
+          "userId": 215,
+          "email": "arc_hunter@fastmail.com",
+          "name": "ArcHunter"
+        },
+        "datetime": "2024-07-28T13:00-0500",
+        "content": "A build Arc Strider é ótima para combate corpo a corpo. A agilidade do bastão arc é incrível e permite causar muito dano rapidamente."
+      },
+      {
+        "_id": 16,
+        "feed": 8,
+        "user": {
+          "userId": 216,
+          "email": "lightning_rogue@thunder.com",
+          "name": "LightningRogue"
+        },
+        "datetime": "2024-07-28T14:30-0500",
+        "content": "Adoro a combinação de ataques de esquiva e golpes corpo a corpo. Esta build é perfeita para jogadores que gostam de se mover rapidamente e causar dano."
+      },
+      {
+        "_id": 17,
+        "feed": 9,
+        "user": {
+          "userId": 217,
+          "email": "solar_guardian@helios.net",
+          "name": "SolarGuardian"
+        },
+        "datetime": "2024-07-29T14:00-0500",
+        "content": "A build Solar Sentinel é excelente para equilibrar dano e cura. A habilidade de criar um escudo com o super é muito útil em situações difíceis."
+      },
+      {
+        "_id": 18,
+        "feed": 9,
+        "user": {
+          "userId": 218,
+          "email": "flame_titan@nova.com",
+          "name": "FlameTitan"
+        },
+        "datetime": "2024-07-29T15:30-0500",
+        "content": "Usar as habilidades solares para se curar enquanto causa dano aos inimigos é uma estratégia muito eficaz. Esta build é uma das minhas favoritas!"
+      },
+      {
+        "_id": 19,
+        "feed": 10,
+        "user": {
+          "userId": 219,
+          "email": "ice_sharpshooter@freeze.com",
+          "name": "IceSharpshooter"
+        },
+        "datetime": "2024-07-30T16:00-0500",
+        "content": "A build Stasis Marksman é incrível para controle de campo. Congelar e destruir inimigos com estase é muito divertido e eficaz."
+      },
+      {
+        "_id": 20,
+        "feed": 10,
+        "user": {
+          "userId": 220,
+          "email": "frost_ranger@coldmail.com",
+          "name": "FrostRanger"
+        },
+        "datetime": "2024-07-30T17:30-0500",
+        "content": "A combinação de granadas de estase e o super para controlar o campo de batalha é perfeita. Esta build realmente destaca o poder da estase!"
+      },
+      {
+        "_id": 21,
+        "feed": 11,
+        "user": {
+          "userId": 221,
+          "email": "solar_wizard@firemail.com",
+          "name": "SolarWizard"
+        },
+        "datetime": "2024-07-31T17:00-0500",
+        "content": "A build Solar Warlock é fantástica para suporte de equipe. Usar habilidades solares para aumentar o dano e fornecer buffs é extremamente útil em raids e strikes."
+      },
+      {
+        "_id": 22,
+        "feed": 11,
+        "user": {
+          "userId": 222,
+          "email": "sun_sorcerer@brightmail.com",
+          "name": "SunSorcerer"
+        },
+        "datetime": "2024-07-31T18:30-0500",
+        "content": "Adoro como essa build combina dano e suporte. Os buffs para os aliados realmente fazem diferença nas batalhas mais difíceis."
+      },
+      {
+        "_id": 23,
+        "feed": 12,
+        "user": {
+          "userId": 223,
+          "email": "arc_titan@stormmail.com",
+          "name": "ArcTitan"
+        },
+        "datetime": "2024-08-01T18:00-0500",
+        "content": "A build Arc Titan é uma das mais poderosas que já usei. Criar tempestades elétricas com super e ataques corpo a corpo é muito eficaz contra grupos de inimigos."
+      },
+      {
+        "_id": 24,
+        "feed": 12,
+        "user": {
+          "userId": 224,
+          "email": "electric_shield@voltage.com",
+          "name": "ElectricShield"
+        },
+        "datetime": "2024-08-01T19:30-0500",
+        "content": "Esta build realmente brilha em batalhas de equipe. As habilidades de eletrificar inimigos e se proteger ao mesmo tempo são incríveis!"
+      },
+      {
+        "_id": 25,
+        "feed": 13,
+        "user": {
+          "userId": 225,
+          "email": "solar_assassin@burnmail.com",
+          "name": "SolarAssassin"
+        },
+        "datetime": "2024-08-02T19:00-0500",
+        "content": "A build Solar Hunter é perfeita para causar dano contínuo. Usar super e granadas solares para limpar inimigos é muito eficaz em várias situações."
+      },
+      {
+        "_id": 26,
+        "feed": 13,
+        "user": {
+          "userId": 226,
+          "email": "flame_ranger@heatmail.com",
+          "name": "FlameRanger"
+        },
+        "datetime": "2024-08-02T20:30-0500",
+        "content": "Esta build realmente se destaca em batalhas prolongadas. O dano ao longo do tempo das habilidades solares é devastador contra inimigos mais fortes."
+      },
+      {
+        "_id": 27,
+        "feed": 14,
+        "user": {
+          "userId": 227,
+          "email": "arc_mage@lightning.com",
+          "name": "ArcMage"
+        },
+        "datetime": "2024-08-03T20:00-0500",
+        "content": "A build Arc Warlock é insana para controle de campo. Chaining abilities para criar ataques elétricos devastadores é extremamente divertido e eficaz."
+      },
+      {
+        "_id": 28,
+        "feed": 14,
+        "user": {
+          "userId": 228,
+          "email": "storm_warlock@thundercloud.com",
+          "name": "StormWarlock"
+        },
+        "datetime": "2024-08-03T21:30-0500",
+        "content": "Adoro como essa build permite controlar o campo de batalha. Usar habilidades arc para causar dano massivo e controlar áreas é perfeito para PvE."
+      }
+    ]
+  }
+  
